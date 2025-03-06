@@ -18,9 +18,7 @@ I build projects that involve databases, authentication, and API development. My
 ---
 
 ## Projects  
-
-### [Kino-Cinema](https://github.com/EmpyreanMist/Kino---Cinema)  
-A cinema website built with Node.js and EJS. Fetches movie data from an API and implements markdown for movie descriptions. Features server-side rendering and structured error handling.  
+  
 
 ### [Hacker Escape Room](https://github.com/EmpyreanMist/Hacker-Escape-Room-sass)  
 An interactive escape room built with JavaScript and Sass. The project focuses on game mechanics and UI animations.  
