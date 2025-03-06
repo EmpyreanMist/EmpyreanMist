@@ -32,10 +32,4 @@ More projects are available in my repositories.
 
 ---
 
-## Contact  
-
-- **Email:** [christianfryksten1@gmail.com](mailto:christianfryksten1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/christianfryksten-321005198](https://www.linkedin.com/in/christian-fryksten-321005198)  
-- **GitHub:** [EmpyreanMist](https://github.com/EmpyreanMist)  
-
 I am open to collaborations and contributions. Feel free to check out my projects or reach out.  
