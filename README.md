@@ -1,8 +1,11 @@
+![github-header-image](https://github.com/user-attachments/assets/7e980c1f-7441-4b01-bb37-7447f82adca6)
+
 # 💫 About Me:
 👯 I’m looking to collaborate on **web development projects**.<br>🌱 I’m currently learning **system development**, focusing on **JavaScript and Java** (Fullstack).<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials:![Uploading github-header-image.png…]()
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/polymorphing12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/christian-fryksten) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christianfryksten1@gmail.com) 
 
 # 💻 Tech Stack:
