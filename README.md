@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/7e980c1f-7441-4b01-bb37-7447f82adca6)
 
 # 💫 About Me:
-👯 I’m looking to collaborate on **web development projects**.<br>🌱 I’m currently learning **system development**, focusing on **JavaScript and Java** (Fullstack).<br>
+🌱 I’m currently learning **system development**, focusing on **JavaScript and Java** (Fullstack).<br>
 
 
 ## 🌐 Socials:
