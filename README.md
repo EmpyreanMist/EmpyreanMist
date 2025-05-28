@@ -19,6 +19,8 @@
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%238C8C8C.svg?style=for-the-badge&logo=ejs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
