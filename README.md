@@ -41,6 +41,16 @@
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
+## 🚀 Deployed Projects
+
+### 🟡 [Retro Wordle](https://retro-wordle.up.railway.app)
+Wordle clone made from scratch with a retro vibe.
+
+---
+
+### 🎬 [Kino Bio](https://fullstack-kino.vercel.app/profile)
+Cinema website with movie listings, reviews, and screening times.
+
 
 ## 📊 GitHub Stats:
 
