@@ -1,8 +1,8 @@
 ![github-header-image](https://github.com/user-attachments/assets/7e980c1f-7441-4b01-bb37-7447f82adca6)
  
-## 💻 Tech Stack I've Experimented With
+## Tech Stack I've Experimented With
 
-### 🎨 Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -22,13 +22,13 @@
 
 ---
 
-### 🧪 Testing & QA
+### Testing & QA
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
-### ⚙️ Dev Tools
+### Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -36,23 +36,28 @@
 
 ---
 
-### 🚀 Deployment Platforms
+### Deployment Platforms
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-## 🚀 Deployed Projects
+## Deployed Projects
 
-### 🟡 [Retro Wordle](https://retro-wordle.up.railway.app)
+### [Portfolio](https://christians-portfolio.vercel.app/)
+Simple portfolio showcasing my projects
+
+---
+
+### [Retro Wordle](https://retro-wordle.up.railway.app)
 Wordle clone made from scratch with a retro vibe.
 
 ---
 
-### 🎬 [Kino Bio](https://fullstack-kino.vercel.app)
+### [Kino Bio](https://fullstack-kino.vercel.app)
 Cinema website with movie listings, reviews, and screening times.
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
@@ -62,7 +67,7 @@ Cinema website with movie listings, reviews, and screening times.
 
 [![](https://visitcount.itsvg.in/api?id=EmpyreanMist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/christian-fryksten) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christianfryksten1@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
