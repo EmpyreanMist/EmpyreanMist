@@ -48,7 +48,7 @@ Wordle clone made from scratch with a retro vibe.
 
 ---
 
-### 🎬 [Kino Bio](https://fullstack-kino.vercel.app/profile)
+### 🎬 [Kino Bio](https://fullstack-kino.vercel.app)
 Cinema website with movie listings, reviews, and screening times.
 
 
