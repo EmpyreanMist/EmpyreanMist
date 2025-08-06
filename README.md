@@ -43,7 +43,7 @@
 
 ## Deployed Projects
 
-### [Portfolio](https://christians-portfolio.vercel.app/)
+### [Portfolio](https://fryksten.dev)
 Simple portfolio showcasing my projects
 
 ---
