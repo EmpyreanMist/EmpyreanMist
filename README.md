@@ -35,21 +35,15 @@
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-## Deployed Projects
-
-### [Portfolio](https://fryksten.dev)
-Simple portfolio showcasing my projects
-
 ---
 
-### [Retro Wordle](https://retro-wordle.up.railway.app)
-Wordle clone made from scratch with a retro vibe.
+### Dev Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
-### [Kino Bio](https://fullstack-kino.vercel.app)
-Cinema website with movie listings, reviews, and screening times.
-
 
 ## GitHub Stats:
 
