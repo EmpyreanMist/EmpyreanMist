@@ -2,20 +2,23 @@
 
 ## GitHub Stats:
 
-<div style="display: flex; flex-direction: row; gap: 20px; justify-content: flex-start;">
-
-  <img 
-    src="https://github-readme-stats-ashy-seven-41.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false" 
-    width="380"
+<a href="#">
+  <img height="140" align="center"
+    src="https://github-readme-stats-ashy-seven-41.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false"
   />
+</a>
 
-  <img 
-    src="https://github-readme-stats-ashy-seven-41.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&hide_border=false&layout=compact" 
-    width="380"
+<a href="#">
+  <img height="140" align="center"
+    src="https://github-readme-streak-stats-eight-lemon.vercel.app?user=EmpyreanMist&theme=dark&exclude_days=Sun%2CSat"
   />
+</a>
 
-</div>
-
+<a href="#">
+  <img height="140" align="center"
+    src="https://github-readme-stats-ashy-seven-41.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&layout=compact&hide_border=false"
+  />
+</a>
 
 
 
