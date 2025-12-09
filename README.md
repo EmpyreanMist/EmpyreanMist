@@ -2,10 +2,22 @@
 
 ## GitHub Stats:
 
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=EmpyreanMist&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+<div style="display: flex; flex-direction: row; gap: 20px; justify-content: flex-start;">
+
+  <img 
+    src="https://github-readme-stats-ashy-seven-41.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false" 
+    width="380"
+  />
+
+  <img 
+    src="https://github-readme-stats-ashy-seven-41.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&hide_border=false&layout=compact" 
+    width="380"
+  />
+
 </div>
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=EmpyreanMist&icon=0&color=0)](https://visitcount.itsvg.in)
 
