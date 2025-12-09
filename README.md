@@ -2,23 +2,24 @@
 
 ## GitHub Stats:
 
-<a href="#">
-  <img height="160" align="center"
+<p align="center">
+  <img 
     src="https://github-readme-streak-stats-eight-lemon.vercel.app?user=EmpyreanMist&theme=dark&exclude_days=Sun%2CSat"
+    height="170"
   />
-</a>
+</p>
 
-<a href="#">
-  <img height="140" align="center"
+<p align="center">
+  <img 
     src="https://github-readme-stats-ashy-seven-41.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false"
+    height="140"
   />
-</a>
-
-<a href="#">
-  <img height="140" align="center"
+  <img 
     src="https://github-readme-stats-ashy-seven-41.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&layout=compact&hide_border=false"
+    height="140"
   />
-</a>
+</p>
+
 
 
 
