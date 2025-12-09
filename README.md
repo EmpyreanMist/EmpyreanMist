@@ -5,18 +5,18 @@
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-eight-lemon.vercel.app?user=EmpyreanMist&theme=dark&exclude_days=Sun%2CSat"
-    height="170"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats-ashy-seven-41.vercel.app/api?username=EmpyreanMist&theme=dark&hide_border=false"
-    height="140"
+    height="170"
   />
   <img 
     src="https://github-readme-stats-ashy-seven-41.vercel.app/api/top-langs/?username=EmpyreanMist&theme=dark&layout=compact&hide_border=false"
-    height="140"
+    height="170"
   />
 </p>
 
